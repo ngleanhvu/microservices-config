@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related productionss APIsss"
+  message: "Welcome to EazyBank accounts related productionsssss APIsss"
   contactDetails:
     name: "Nguyen Le Anh Vu1"
     email: "vunguyen.0208200402@gmail.com"
   onCallSupport:
-    - (+84) 968027558
+    - (+84) 968027559
