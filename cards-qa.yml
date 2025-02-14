@@ -1,7 +1,7 @@
 build:
-  version: "2.0"
-
-accounts:
+  version: "2.0
+  
+cards:
   message: "Welcome to EazyBank cards related local APIs"
   contactDetails:
     name: "Nguyen Le Anh Vu2"
